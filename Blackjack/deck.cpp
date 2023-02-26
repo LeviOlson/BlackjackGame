@@ -49,4 +49,3 @@ char Deck::getNextCard() {
     deck.pop_back();
     return c;
 }
-
